@@ -12,6 +12,16 @@
 
 Ответ:
 
+Ответ:
+
+Манифесты расположены в директории https://github.com/vmmaltsev/kuber-homeworks-1.4/tree/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201
+
+Скриншоты
+
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_115.png)
+
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_116.png)
+
 ---
 
 Задание 2. Создать Service и обеспечить доступ к приложениям снаружи кластера
@@ -21,4 +31,10 @@
     3. Предоставить манифест и Service в решении, а также скриншоты или вывод команды п.2.
 
 Ответ:
+
+Манифесты расположены в директории https://github.com/vmmaltsev/kuber-homeworks-1.4/tree/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202
+
+Скриншоты
+
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_117.png)
 
